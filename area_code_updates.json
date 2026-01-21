@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "release_date": "2026-01-21",
+    "min_app_version": "1.0.0",
+    "data_sources": {
+      "nanpa": "https://www.nanpa.com",
+      "ftc": "FTC Consumer Sentinel Data Book 2024"
+    }
+  },
+  "updates": {
+    "add": [
+      {
+        "area_code": "363",
+        "state": "Iowa",
+        "city": "Des Moines",
+        "timezone": "Central",
+        "latitude": 41.5868,
+        "longitude": -93.6250,
+        "population": 215000,
+        "risk_level": "LOW",
+        "risk_score": 380,
+        "notes": "TEST - Overlay of 515 (2023)",
+        "ftc_source": "Iowa state rate: 1079/100K",
+        "effective_date": "2023-04-22"
+      }
+    ],
+    "modify": [],
+    "deprecate": []
+  },
+  "future_codes": []
+}
